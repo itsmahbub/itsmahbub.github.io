@@ -9,9 +9,6 @@ main:
   - title: "Skills"
     url: /skills/
 
-  - title: "Projects"
-    url: /projects/
-  
   - title: "Undergraduate Thesis"
     url: /files/undergraduate_thesis.pdf
 
