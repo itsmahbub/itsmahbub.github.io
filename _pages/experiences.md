@@ -9,7 +9,7 @@ author_profile: true
 
 ***
 Responsibilities:
-- I am currently working under the guidance of [Dr. Endadul Hoque](https://endadul.github.io/) at the [SYNE](https://syne-lab.github.io/) research lab. My research is centered around Network and Systems Security and Automated Vulnerability Detection.
+- Conducting research under the guidance of [Dr. Endadul Hoque](https://endadul.github.io/) at the [SYNE](https://syne-lab.github.io/) research lab, focusing on Network and Systems Security and Automated Vulnerability Detection.
 
 
 ### Senior Site Reliability Engineer, [Intuitive Web Solutions LLC (BriteCore)](https://www.britecore.com/)
@@ -20,7 +20,7 @@ Responsibilities:
 - Improved monitoring of application performance and failures. Automated detection and healing of system failures.
 - Diagnosed, investigated, and resolved system incidents, and performed post-incident reviews.
 - Investigated security vulnerabilities and implemented security best practices across cloud infrastructures.
-- Implemented monitoring and optimization of resource allocation in batch processing, which reduced AWS Batch Job costs by 10%.
+- Implemented monitoring and optimization of resource allocation in batch job processing that reduced AWS Batch Job costs by 10%, saving $12,000 annually.
 
 ### Senior Cloud Engineer, [Intuitive Web Solutions LLC (BriteCore)](https://www.britecore.com/)
 #### Oct 2021 - Feb 2022 | California, USA (Remote)
@@ -36,17 +36,18 @@ Responsibilities:
 
 ***
 Responsibilities:
-- Configured multi-master shared ElasticSearch cluster and exposed this service to multiple AWS accounts securely through AWS Private Link.
-- Developed and improved CI/CD release and deployment pipelines used by 40+ products.
-- Migrated legacy application from EC2 instance to Elastic Container Service.
+
+- Developed a search application utilizing an ElasticSearch cluster, ensuring seamless and secure access to the search functionality from the client's AWS account via AWS Private Link.
+- Developed and improved CI/CD pipelines to facilitate the continuous delivery of over 40 products across 80+ clients.
+- Led the migration of legacy applications from EC2 instances to Elastic Container Service.
 
 ### Software Engineer, [Field Information Solutions Ltd]()
 #### May 2018 - Jul 2019 | Dhaka, Bangladesh
 
 ***
 Responsibilities:
-- Developed API endpoints to support both web application and mobile application for last-mile sales distribution product.
-- Revised and modularized old codebase to increase the code re-usability in new projects.
+- Developed API endpoints supporting web and mobile applications for last-mile sales distribution application.
+- Modularized and optimized legacy codebase for increased reusability.
 
 
 ### Junior Software Engineer, [Field Information Solutions Ltd]()
@@ -54,5 +55,5 @@ Responsibilities:
 
 ***
 Responsibilities:
-- Developed source code generator using Java and Apache Velocity template engine, which ensured coherent structure and style of the codebases and enhanced development speed.
-- Worked on high-performant SMS server application utilizing SMPP protocol.
+- Developed a source code generator using Java and Apache Velocity, improving codebase consistency and development speed.
+- Contributed to the development of a high-performing SMS server application using the SMPP protocol.
