@@ -6,14 +6,17 @@ main:
   - title: "Experiences"
     url: /experiences/    
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Skills"
+    url: /skills/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /projects/
+  
+  - title: "Undergraduate Thesis"
+    url: /files/undergraduate_thesis.pdf
+
+  - title: "Certifications"
+    url: /certifications/
 
   - title: "Resume"
     url: /files/resume.pdf
-
-  - title: "Guide"
-    url: /markdown/
