@@ -41,7 +41,7 @@ Responsibilities:
 - Developed and improved CI/CD pipelines to facilitate the continuous delivery of over 40 products across 80+ clients.
 - Led the migration of legacy applications from EC2 instances to Elastic Container Service.
 
-### Software Engineer, [Field Information Solutions Ltd]()
+### Software Engineer, Field Information Solutions Ltd
 #### May 2018 - Jul 2019 | Dhaka, Bangladesh
 
 ***
@@ -50,7 +50,7 @@ Responsibilities:
 - Modularized and optimized legacy codebase for increased reusability.
 
 
-### Junior Software Engineer, [Field Information Solutions Ltd]()
+### Junior Software Engineer, [Reve Systems](https://www.revesoft.com/)
 #### Oct 2017 - Apr 2018 | Dhaka, Bangladesh
 
 ***
