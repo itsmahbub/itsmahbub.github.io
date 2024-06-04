@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mahbub Alam"
+title                    : "Mahbub's Homepage"
 title_separator          : "-"
 name                     : &name "Mahbub Alam"
 description              : &description "personal description"
