@@ -21,7 +21,7 @@ repository               : "itsmahbub/itsmahbub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mahbub_photo.jpg"
   name             : "Mahbub Alam"
   pronouns         : # "he/him"  
   bio              : "Ph.D. Student <br> Graduate Reserach Assistant"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "mahbub_alam11"
+  twitter          : # "mahbub_alam11"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
