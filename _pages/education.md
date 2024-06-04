@@ -10,6 +10,6 @@ author_profile: true
 > Syracuse, New York, USA
 
 ### B.Sc. in Computer Science and Engineering 
-> [Bangladesh University of Engineering and Technology(BUET)](https://buet.ac.bd) (2013- 2017) <br>
+> [Bangladesh University of Engineering and Technology (BUET)](https://buet.ac.bd) (2013- 2017) <br>
 >
 > Dhaka, Bangladesh
