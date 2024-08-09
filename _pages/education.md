@@ -10,9 +10,10 @@ author_profile: true
 > College Station, Texas, United States
 
 ### Ph.D. in Computer/Information Science and Engineering
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Syracuse_Orange_logo.svg" alt="Syracuse University Logo" width="100px" height="100px">](https://www.syracuse.edu/) (August 2023 - May 2024) [Transfer Out] <br>
-> 
-> Syracuse, New York, USA
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Syracuse_Orange_logo.svg" alt="Syracuse University Logo" width="100px" height="100px">](https://www.syracuse.edu/)
+<br>
+> [Syracuse University](https://www.syracuse.edu/) (August 2023 - May 2024) [Transfer Out] <br>
+> Syracuse, New York, United States
 
 ### B.Sc. in Computer Science and Engineering
 > [<img src="https://upload.wikimedia.org/wikipedia/en/d/da/BUET_LOGO.svg" alt="Bangladesh University of Engineering and Technology Logo" width="100px" height="100px">](https://buet.ac.bd) <br>
