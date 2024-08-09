@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am [Mahbub Alam](https://www.linkedin.com/in/alam-mahbub/), a Ph.D. student in the [Department of Electrical Engineering & Computer Science at Syracuse University](https://ecs.syracuse.edu/academics/electrical-engineering-and-computer-science). I am currently working under the guidance of [Dr. Endadul Hoque](https://endadul.github.io/) at the [SYNE](https://syne-lab.github.io/) research lab, focusing on Network and Systems Security and Automated Vulnerability Detection.
+I am [Mahbub Alam](https://www.linkedin.com/in/alam-mahbub/), a Ph.D. student in the [Department of Computer Science and Engineering at Texas A&M University](https://engineering.tamu.edu/cse/index.html). I am currently working under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/) at the [SPIES](https://spies.engr.tamu.edu/) research lab. My research interests include Authentication, End-to-End Encryption, and Security and Privacy. I am passionate about developing novel solutions to real-world security problems.

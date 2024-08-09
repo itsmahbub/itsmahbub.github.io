@@ -4,8 +4,14 @@ permalink: /experiences/
 author_profile: true
 ---
 
+### Graduate Assistant - Research, [Texas A&M University](https://tamu.edu)
+#### August 2024 - Present | College Station, Texas
+
+***
+Responsibilities:
+
 ### Graduate Research Assistant, [Syracuse University](https://www.syracuse.edu)
-#### August 2023 - Present | Syracuse, New York
+#### August 2023 - June 2024 | Syracuse, New York
 
 ***
 Responsibilities:
