@@ -14,6 +14,9 @@ main:
 
   - title: "Certifications"
     url: /certifications/
+  
+  - title: "Blog"
+    url: /blog/
 
   - title: "Resume"
     url: /files/resume.pdf
