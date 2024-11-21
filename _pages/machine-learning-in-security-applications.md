@@ -4,7 +4,7 @@ permalink: /ml-in-security-applications/
 author_profile: false
 ---
 
-Machine learning (ML) is revolutionizing security by addressing key challenges in authentication and malware detection. In continuous authentication, ML model tracks user behavior to verify identity without constant password prompts. Usable authentication methods, like combining passphrases with keystroke dynamics, boost security while staying user-friendly. In malware detection, ML tools like AutoYara automate Yara rule creation, speeding up threat identification. This article explores the role of ML in these security applications.
+Machine learning (ML) is revolutionizing security by addressing key challenges in authentication and malware detection. In continuous authentication, ML model tracks user behavior to verify identity without constant password prompts. Usable authentication methods, like combining passphrases with keystroke dynamics, boost security while staying user-friendly. In malware detection, ML tools like AutoYara speed up malware identification by automating Yara rule creation. This article explores the role of ML in these security applications.
 
 ## Continuous Authentication
 
