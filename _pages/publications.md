@@ -13,6 +13,6 @@ author_profile: true
 
 ## 2024
 - **iConPAL: LLM-guided Policy Authoring Assistant for Configuring IoT Defenses**
-  *Mahbub Alam, Siwei Zhang, Eric Rodriguez, Akib Nafis, Endadul Hoque.*  
+  *Mahbub Alam, Siwei Zhang, Eric Rodriguez, Akib Nafis, and Endadul Hoque.*  
   In *IEEE Secure Development Conference (SecDev)*,
   October 2025.
