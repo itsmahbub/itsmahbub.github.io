@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+## 2025
+- **Infrastructure Patterns in Toll Scam Domains: A Comprehensive Analysis of Cybercriminal Registration and Hosting Strategies**  
+  *Morium Akter Munny, Mahbub Alam, Sonjoy Kumar Paul, Daniel Timko, Muhammad Lutfor Rahman, and Nitesh Saxena*  
+  In *APWG’s Symposium on Electronic Crime Research (eCrime)*, November 2025.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2024
+- **iConPAL: LLM-guided Policy Authoring Assistant for Configuring IoT Defenses**
+  *Mahbub Alam, Siwei Zhang, Eric Rodriguez, Akib Nafis, Endadul Hoque*
+  In *IEEE Secure Development Conference (SecDev)*,
+  October 2025.
