@@ -9,8 +9,8 @@ main:
   - title: "Experiences"
     url: /experiences/    
 
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
 
   # - title: "Undergraduate Thesis"
   #   url: /files/undergraduate_thesis.pdf
@@ -18,8 +18,11 @@ main:
   - title: "Certifications"
     url: /certifications/
   
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
 
-  - title: "Resume"
-    url: /files/resume.pdf
+  - title: "Contact"
+    url: /contact/   
+
+  - title: "CV"
+    url: /files/CV-Mahbub-Alam.pdf
