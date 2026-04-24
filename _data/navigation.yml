@@ -21,9 +21,6 @@ main:
   # - title: "Blog"
   #   url: /blog/
 
-  - title: "Leadership & Awards"
-    url: /leadership/   
-
   - title: "Contact"
     url: /contact/   
 

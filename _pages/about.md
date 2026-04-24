@@ -30,9 +30,12 @@ Prior to my Ph.D., I worked as a Site Reliability Engineer, focusing on cloud in
 
 
 ## News
-- **September, 2025:** Our paper *"Infrastructure Patterns in Toll Scam Domains: A Comprehensive Analysis of Cybercriminal Registration and Hosting Strategies"* will appear in APWG eCrime 2025.
 
-- **August, 2024:** Our paper *"iConPAL: LLM-guided Policy Authoring Assistant for Configuring IoT Defenses"* will appear in IEEE SecDev 2024.
+- **December, 2025:** Our paper *"[SoK: PHILTER: Uncovering Security and Functional Gaps in AI-based Phishing Website Detection Literature via an LLM-based Reasoning Framework](https://itsmahbub.github.io/files/PHILTER.pdf)"* has been accepted to 35th USENIX Security Symposium, August 2026.
+
+- **September, 2025:** Our paper *"[Infrastructure Patterns in Toll Scam Domains: A Comprehensive Analysis of Cybercriminal Registration and Hosting Strategies](https://itsmahbub.github.io/files/infra-pattern-in-toll-scam.pdf)"* will appear in APWG eCrime 2025.
+
+- **August, 2024:** Our paper *"[iConPAL: LLM-guided Policy Authoring Assistant for Configuring IoT Defenses](https://itsmahbub.github.io/files/iConPAL.pdf)"* will appear in IEEE SecDev 2024.
 
 - **August, 2024**: Began my Ph.D. in Computer Science at Texas A&M University, focusing on AI Safety & Security and AI for Cybersecurity, under the guidance of [Dr. Nitesh Saxena](https://nsaxena.engr.tamu.edu/).
 
